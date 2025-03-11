@@ -17,6 +17,7 @@ This Python script captures network packets, logs them, and detects suspicious I
   - collections
   - datetime
   - time
+  - enter the target IP in the code
 
 Install dependencies using:
 bash
